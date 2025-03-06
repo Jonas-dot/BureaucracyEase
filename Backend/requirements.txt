@@ -1,0 +1,5 @@
+Flask
+Flask-Cors
+selenium
+beautifulsoup4
+sqlalchemy
